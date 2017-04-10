@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: a46f0f8b375e51a4495a1626e4588eff
+timeCreated: 1490461026
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NegaSol_Walking_SpritSheet_0
+    21300002: NegaSol_Walking_SpritSheet_1
+    21300004: NegaSol_Walking_SpritSheet_2
+    21300006: NegaSol_Walking_SpritSheet_3
+    21300008: NegaSol_Walking_SpritSheet_4
+    21300010: NegaSol_Walking_SpritSheet_5
+    21300012: NegaSol_Walking_SpritSheet_6
+    21300014: NegaSol_Walking_SpritSheet_7
+    21300016: NegaSol_Walking_SpritSheet_8
+    21300018: NegaSol_Walking_SpritSheet_9
+    21300020: NegaSol_Walking_SpritSheet_10
+    21300022: NegaSol_Walking_SpritSheet_11
+    21300024: NegaSol_Walking_SpritSheet_12
+    21300026: NegaSol_Walking_SpritSheet_13
+    21300028: NegaSol_Walking_SpritSheet_14
+    21300030: NegaSol_Walking_SpritSheet_15
+    21300032: NegaSol_Walking_SpritSheet_16
+    21300034: NegaSol_Walking_SpritSheet_17
+    21300036: NegaSol_Walking_SpritSheet_18
+    21300038: NegaSol_Walking_SpritSheet_19
+    21300040: NegaSol_Walking_SpritSheet_20
+    21300042: NegaSol_Walking_SpritSheet_21
+    21300044: NegaSol_Walking_SpritSheet_22
+    21300046: NegaSol_Walking_SpritSheet_23
+    21300048: NegaSol_Walking_SpritSheet_24
+    21300050: NegaSol_Walking_SpritSheet_25
+    21300052: NegaSol_Walking_SpritSheet_26
+    21300054: NegaSol_Walking_SpritSheet_27
+    21300056: NegaSol_Walking_SpritSheet_28
+    21300058: NegaSol_Walking_SpritSheet_29
+    21300060: NegaSol_Walking_SpritSheet_30
+    21300062: NegaSol_Walking_SpritSheet_31
+    21300064: NegaSol_Walking_SpritSheet_32
+    21300066: NegaSol_Walking_SpritSheet_33
+    21300068: NegaSol_Walking_SpritSheet_34
+    21300070: NegaSol_Walking_SpritSheet_35
+    21300072: NegaSol_Walking_SpritSheet_36
+    21300074: NegaSol_Walking_SpritSheet_37
+    21300076: NegaSol_Walking_SpritSheet_38
+    21300078: NegaSol_Walking_SpritSheet_39
+    21300080: NegaSol_Walking_SpritSheet_40
+    21300082: NegaSol_Walking_SpritSheet_41
+    21300084: NegaSol_Walking_SpritSheet_42
+    21300086: NegaSol_Walking_SpritSheet_43
+    21300088: NegaSol_Walking_SpritSheet_44
+    21300090: NegaSol_Walking_SpritSheet_45
+    21300092: NegaSol_Walking_SpritSheet_46
+    21300094: NegaSol_Walking_SpritSheet_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 340
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 340
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 340
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 340
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 340
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 340
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 340
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 340
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 340
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 340
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 340
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 308
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 308
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 308
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 308
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 308
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 308
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 308
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 308
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 308
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 308
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 308
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 308
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 276
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_25
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 276
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 276
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 276
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 276
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 276
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_30
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 276
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 276
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_32
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 276
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 276
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_34
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 276
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 276
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 244
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 244
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_38
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 244
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 244
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 244
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 244
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 244
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_43
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 244
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_44
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 244
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_46
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 244
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NegaSol_Walking_SpritSheet_47
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 244
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
